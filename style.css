@@ -59,7 +59,7 @@
 }
 
 #hero{
-    background-image: url(/img/hero4.png);
+    background-image: url(img/hero4.png);
     height:90vh;                            /*90 chiều cao màn hình*/
     width: 100%;
     background-size: cover;
